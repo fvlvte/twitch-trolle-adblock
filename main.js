@@ -8,8 +8,7 @@ const listaTroli = [
 
 const output = [];
 
-for(let trol of listaTroli)
-{
+for (let trol of listaTroli) {
   output.push(`www.twitch.tv##.seventv-chat-message-background :contains("${trol}")`);
 }
 

@@ -1,3 +1,3 @@
-www.twitch.tv##.seventv-chat-message-background :contains("shadoweeee")
-www.twitch.tv##.seventv-chat-message-background :contains("piotrostroleka")
-www.twitch.tv##.seventv-chat-message-background :contains("jepetto")
+www.twitch.tv##.seventv-message :contains("shadoweeee")
+www.twitch.tv##.seventv-message :contains("piotrostroleka")
+www.twitch.tv##.seventv-message :contains("jepetto")
